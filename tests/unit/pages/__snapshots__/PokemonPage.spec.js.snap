@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pokemon page should match eith snapshot 1`] = `<h1>Wait, please</h1>`;
+
+exports[`Pokemon page should match with snapshot when load data 1`] = `
+<div>
+  <h1>Who is this pokémon?</h1>
+  <pokemon-picture-stub pokemonid="11" showpokemon="false"></pokemon-picture-stub>
+  <pokemon-options-stub pokemons="[object Object],[object Object],[object Object],[object Object]"></pokemon-options-stub>
+  <!--v-if-->
+</div>
+`;
